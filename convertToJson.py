@@ -16,6 +16,6 @@ def make_json(csvFilePath, jsonFilePath):
         jsonf.write(json.dumps(data, indent=4))
 
 # Driver Code
-csvFilePath = r"bookings.csv"
-jsonFilePath = r"convert.json"
+csvFilePath = r"bookings.csv" #add any csv file which needs to be converted to json file
+jsonFilePath = r"convert.json" # converted json file
 make_json(csvFilePath, jsonFilePath)

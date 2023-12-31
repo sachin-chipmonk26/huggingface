@@ -1,0 +1,1961 @@
+City,Movie,Theatre,Show_Timings,text
+Bangalore,Animal,"Cinepolis: Nexus Shantiniketan, Bengaluru",10:00AM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Delhi,Aquaman 2,"Gopalan Miniplex: Signature Mall, Old Madras Road",2:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Hyderabad,Devil: The British Secret Agent,"PVR: Nexus (Formerly Forum), Koramangala",6:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Chennai,Dunki,"PVR: VR Bengaluru, Whitefield Road",9:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Kolkata,Hi Nanna,"INOX: Nehru Place, New Delhi",11:00AM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Kochi,Neru,"PVR: DLF Mall of India, Noida",3:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Tirupati,Salaar,"Cinepolis: Inorbit Mall, Hyderabad",7:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Mumbai,Devil: The British Secret Agent,"PVR: Forum Mall, Vadapalani, Chennai",10:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Goa,Animal,"INOX: Quest Mall, Kolkata",1:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+Lucknow,Aquaman 2,"Cinepolis: Nexus Shantiniketan, Bengaluru",5:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,8:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,11:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,12:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,4:00PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,7:30PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,10:30PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,2:30PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,6:30PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,9:30PM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"
+,,,12:30AM,"###Human:
+1. User: Hi
+2. Bot: Hello! How can I assist you today?
+3. User: I want to book movie tickets.
+4. Bot: Sure! Let me show you the available cities: 0     Bangalore
+1         Delhi
+2     Hyderabad
+3       Chennai
+4       Kolkata
+5         Kochi
+6      Tirupati
+7        Mumbai
+8           Goa
+9       Lucknow
+10         None
+11         None
+12         None
+13         None
+14         None
+15         None
+16         None
+17         None
+18         None
+19         None
+Name: City, dtype: object
+5. User: I choose Bangalore
+6. Bot: Great choice! Here are the movies in Bangalore: 0                              Animal
+1                           Aquaman 2
+2     Devil: The British Secret Agent
+3                               Dunki
+4                            Hi Nanna
+5                                Neru
+6                              Salaar
+7     Devil: The British Secret Agent
+8                              Animal
+9                           Aquaman 2
+10                               None
+11                               None
+12                               None
+13                               None
+14                               None
+15                               None
+16                               None
+17                               None
+18                               None
+19                               None
+Name: Movie, dtype: object
+7. User: I want to watch 'Aquaman 2'
+8. Bot: Excellent! Now, please choose a theatre: 0             Cinepolis: Nexus Shantiniketan, Bengaluru
+1     Gopalan Miniplex: Signature Mall, Old Madras Road
+2              PVR: Nexus (Formerly Forum), Koramangala
+3                    PVR: VR Bengaluru, Whitefield Road
+4                          INOX: Nehru Place, New Delhi
+5                         PVR: DLF Mall of India, Noida
+6                    Cinepolis: Inorbit Mall, Hyderabad
+7                  PVR: Forum Mall, Vadapalani, Chennai
+8                             INOX: Quest Mall, Kolkata
+9             Cinepolis: Nexus Shantiniketan, Bengaluru
+10                                                 None
+11                                                 None
+12                                                 None
+13                                                 None
+14                                                 None
+15                                                 None
+16                                                 None
+17                                                 None
+18                                                 None
+19                                                 None
+Name: Theatre, dtype: object
+9. User: I select 'PVR: VR Bengaluru, Whitefield Road'
+10. Bot: Perfect! Now, let me know the preferred show timing: 0     10:00AM
+1      2:00PM
+2      6:00PM
+3      9:00PM
+4     11:00AM
+5      3:00PM
+6      7:00PM
+7     10:00PM
+8      1:00PM
+9      5:00PM
+10     8:00PM
+11    11:00PM
+12    12:00PM
+13     4:00PM
+14     7:30PM
+15    10:30PM
+16     2:30PM
+17     6:30PM
+18     9:30PM
+19    12:30AM
+Name: Show_Timings, dtype: object
+11. User: I choose the show at 7:00 PM
+12. Bot: How many tickets would you like? (Choose from 1-6)
+13. User: I want 2 tickets
+14. Bot: Great! Here is your confirmation: [Details]
+15. User: Thank you!
+16. Bot: You're welcome! Enjoy the movie.
+"

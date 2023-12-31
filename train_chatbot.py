@@ -29,18 +29,18 @@ model = GPT2LMHeadModel.from_pretrained("gpt2")
 tokenizer.pad_token = tokenizer.eos_token
 
 #for CSV dataset
-# train_dataset = TextDataset(
-#     tokenizer=tokenizer,
-#     file_path="bookings.csv",
-#     block_size=128  # Adjust based on model and hardware
-# )
+train_dataset = TextDataset(
+    tokenizer=tokenizer,
+    file_path="booking_prompts.csv",
+    block_size=128  # Adjust based on model and hardware
+)
 
 #for json dataset
-train_dataset = LineByLineTextDataset(
-    tokenizer=tokenizer,
-    file_path="bookings.json",
-    block_size=128  # Adjust as needed
-)
+# train_dataset = LineByLineTextDataset(
+#     tokenizer=tokenizer,
+#     file_path="bookings.json", #add any json file that is used for training
+#     block_size=128  # Adjust as needed
+# )
 
 data_collator = DataCollatorForLanguageModeling(
     tokenizer=tokenizer, mlm=False # Enable padding
