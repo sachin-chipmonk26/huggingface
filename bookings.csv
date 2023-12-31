@@ -1,0 +1,81 @@
+RowNum,City,Movie,Theatre,Shows
+1,Bangalore,Animal,"Cinepolis: Nexus Shantiniketan, Bengaluru",10:00AM
+2,Bangalore,Animal,"Cinepolis: Nexus Shantiniketan, Bengaluru",2:00AM
+3,Bangalore,Animal,"Cinepolis: Nexus Shantiniketan, Bengaluru",6:00PM
+4,Bangalore,Animal,"Cinepolis: Nexus Shantiniketan, Bengaluru",9:00AM
+5,Bangalore,Animal,"Gopalan Miniplex: Signature Mall, Old Madras Road",10:00AM
+6,Bangalore,Animal,"Gopalan Miniplex: Signature Mall, Old Madras Road",2:00AM
+7,Bangalore,Animal,"Gopalan Miniplex: Signature Mall, Old Madras Road",6:00PM
+8,Bangalore,Animal,"Gopalan Miniplex: Signature Mall, Old Madras Road",9:00AM
+9,Bangalore,Animal,"PVR: Nexus (Formerly Forum), Koramangala",10:00AM
+10,Bangalore,Animal,"PVR: Nexus (Formerly Forum), Koramangala",2:00AM
+11,Bangalore,Animal,"PVR: Nexus (Formerly Forum), Koramangala",6:00PM
+12,Bangalore,Animal,"PVR: Nexus (Formerly Forum), Koramangala",9:00AM
+13,Bangalore,Animal,"PVR: VR Bengaluru, Whitefield Road",10:00AM
+14,Bangalore,Animal,"PVR: VR Bengaluru, Whitefield Road",2:00AM
+15,Bangalore,Animal,"PVR: VR Bengaluru, Whitefield Road",6:00PM
+16,Bangalore,Animal,"PVR: VR Bengaluru, Whitefield Road",9:00AM
+17,Bangalore,"Aquaman 2","Cinepolis: Nexus Shantiniketan, Bengaluru",10:00AM
+18,Bangalore,"Aquaman 2","Cinepolis: Nexus Shantiniketan, Bengaluru",2:00AM
+19,Bangalore,"Aquaman 2","Cinepolis: Nexus Shantiniketan, Bengaluru",6:00PM
+20,Bangalore,"Aquaman 2","Cinepolis: Nexus Shantiniketan, Bengaluru",9:00AM
+21,Bangalore,"Aquaman 2","PVR: Nexus (Formerly Forum), Koramangala",10:00AM
+22,Bangalore,"Aquaman 2","PVR: Nexus (Formerly Forum), Koramangala",2:00AM
+23,Bangalore,"Aquaman 2","PVR: Nexus (Formerly Forum), Koramangala",6:00PM
+24,Bangalore,"Aquaman 2","PVR: Nexus (Formerly Forum), Koramangala",9:00AM
+25,Bangalore,"Devil: The British Secret Agent","Cinepolis: Nexus Shantiniketan, Bengaluru",10:00AM
+26,Bangalore,"Devil: The British Secret Agent","Cinepolis: Nexus Shantiniketan, Bengaluru",2:00AM
+27,Bangalore,"Devil: The British Secret Agent","Cinepolis: Nexus Shantiniketan, Bengaluru",6:00PM
+28,Bangalore,"Devil: The British Secret Agent","Cinepolis: Nexus Shantiniketan, Bengaluru",9:00AM
+29,Bangalore,"Devil: The British Secret Agent","PVR: Nexus (Formerly Forum), Koramangala",10:00AM
+30,Bangalore,"Devil: The British Secret Agent","PVR: Nexus (Formerly Forum), Koramangala",2:00AM
+31,Bangalore,"Devil: The British Secret Agent","PVR: Nexus (Formerly Forum), Koramangala",6:00PM
+32,Bangalore,"Devil: The British Secret Agent","PVR: Nexus (Formerly Forum), Koramangala",9:00AM
+33,Bangalore,"Devil: The British Secret Agent","PVR: VR Bengaluru, Whitefield Road",10:00AM
+34,Bangalore,"Devil: The British Secret Agent","PVR: VR Bengaluru, Whitefield Road",2:00AM
+35,Bangalore,"Devil: The British Secret Agent","PVR: VR Bengaluru, Whitefield Road",6:00PM
+36,Bangalore,"Devil: The British Secret Agent","PVR: VR Bengaluru, Whitefield Road",9:00AM
+37,Bangalore,Dunki,"Cinepolis: Nexus Shantiniketan, Bengaluru",10:00AM
+38,Bangalore,Dunki,"Cinepolis: Nexus Shantiniketan, Bengaluru",2:00AM
+39,Bangalore,Dunki,"Cinepolis: Nexus Shantiniketan, Bengaluru",6:00PM
+40,Bangalore,Dunki,"Cinepolis: Nexus Shantiniketan, Bengaluru",9:00AM
+41,Bangalore,Dunki,"PVR: Nexus (Formerly Forum), Koramangala",10:00AM
+42,Bangalore,Dunki,"PVR: Nexus (Formerly Forum), Koramangala",2:00AM
+43,Bangalore,Dunki,"PVR: Nexus (Formerly Forum), Koramangala",6:00PM
+44,Bangalore,Dunki,"PVR: Nexus (Formerly Forum), Koramangala",9:00AM
+45,Bangalore,Dunki,"PVR: VR Bengaluru, Whitefield Road",10:00AM
+46,Bangalore,Dunki,"PVR: VR Bengaluru, Whitefield Road",2:00AM
+47,Bangalore,Dunki,"PVR: VR Bengaluru, Whitefield Road",6:00PM
+48,Bangalore,Dunki,"PVR: VR Bengaluru, Whitefield Road",9:00AM
+49,Bangalore,"Hi Nanna","Cinepolis: Nexus Shantiniketan, Bengaluru",10:00AM
+50,Bangalore,"Hi Nanna","Cinepolis: Nexus Shantiniketan, Bengaluru",2:00AM
+51,Bangalore,"Hi Nanna","Cinepolis: Nexus Shantiniketan, Bengaluru",6:00PM
+52,Bangalore,"Hi Nanna","Cinepolis: Nexus Shantiniketan, Bengaluru",9:00AM
+53,Bangalore,Neru,"Cinepolis: Nexus Shantiniketan, Bengaluru",10:00AM
+54,Bangalore,Neru,"Cinepolis: Nexus Shantiniketan, Bengaluru",2:00AM
+55,Bangalore,Neru,"Cinepolis: Nexus Shantiniketan, Bengaluru",6:00PM
+56,Bangalore,Neru,"Cinepolis: Nexus Shantiniketan, Bengaluru",9:00AM
+57,Bangalore,Neru,"PVR: Nexus (Formerly Forum), Koramangala",10:00AM
+58,Bangalore,Neru,"PVR: Nexus (Formerly Forum), Koramangala",2:00AM
+59,Bangalore,Neru,"PVR: Nexus (Formerly Forum), Koramangala",6:00PM
+60,Bangalore,Neru,"PVR: Nexus (Formerly Forum), Koramangala",9:00AM
+61,Bangalore,Salaar,"Cinepolis: Nexus Shantiniketan, Bengaluru",10:00AM
+62,Bangalore,Salaar,"Cinepolis: Nexus Shantiniketan, Bengaluru",2:00AM
+63,Bangalore,Salaar,"Cinepolis: Nexus Shantiniketan, Bengaluru",6:00PM
+64,Bangalore,Salaar,"Cinepolis: Nexus Shantiniketan, Bengaluru",9:00AM
+65,Bangalore,Salaar,"Gopalan Miniplex: Signature Mall, Old Madras Road",10:00AM
+66,Bangalore,Salaar,"Gopalan Miniplex: Signature Mall, Old Madras Road",2:00AM
+67,Bangalore,Salaar,"Gopalan Miniplex: Signature Mall, Old Madras Road",6:00PM
+68,Bangalore,Salaar,"Gopalan Miniplex: Signature Mall, Old Madras Road",9:00AM
+69,Bangalore,Salaar,"HMT Digital 4K Cinema: Jalahalli",10:00AM
+70,Bangalore,Salaar,"HMT Digital 4K Cinema: Jalahalli",2:00AM
+71,Bangalore,Salaar,"HMT Digital 4K Cinema: Jalahalli",6:00PM
+72,Bangalore,Salaar,"HMT Digital 4K Cinema: Jalahalli",9:00AM
+73,Bangalore,Salaar,"PVR: Nexus (Formerly Forum), Koramangala",10:00AM
+74,Bangalore,Salaar,"PVR: Nexus (Formerly Forum), Koramangala",2:00AM
+75,Bangalore,Salaar,"PVR: Nexus (Formerly Forum), Koramangala",6:00PM
+76,Bangalore,Salaar,"PVR: Nexus (Formerly Forum), Koramangala",9:00AM
+77,Bangalore,Salaar,"PVR: VR Bengaluru, Whitefield Road",10:00AM
+78,Bangalore,Salaar,"PVR: VR Bengaluru, Whitefield Road",2:00AM
+79,Bangalore,Salaar,"PVR: VR Bengaluru, Whitefield Road",6:00PM
+80,Bangalore,Salaar,"PVR: VR Bengaluru, Whitefield Road",9:00AM

@@ -1,0 +1,482 @@
+{
+    "1": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "10:00AM"
+    },
+    "2": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "2:00AM"
+    },
+    "3": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "6:00PM"
+    },
+    "4": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "9:00AM"
+    },
+    "5": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+        "Shows": "10:00AM"
+    },
+    "6": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+        "Shows": "2:00AM"
+    },
+    "7": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+        "Shows": "6:00PM"
+    },
+    "8": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+        "Shows": "9:00AM"
+    },
+    "9": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "10:00AM"
+    },
+    "10": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "2:00AM"
+    },
+    "11": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "6:00PM"
+    },
+    "12": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "9:00AM"
+    },
+    "13": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "10:00AM"
+    },
+    "14": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "2:00AM"
+    },
+    "15": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "6:00PM"
+    },
+    "16": {
+        "City": "Bangalore",
+        "Movie": "Animal",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "9:00AM"
+    },
+    "17": {
+        "City": "Bangalore",
+        "Movie": "Aquaman 2",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "10:00AM"
+    },
+    "18": {
+        "City": "Bangalore",
+        "Movie": "Aquaman 2",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "2:00AM"
+    },
+    "19": {
+        "City": "Bangalore",
+        "Movie": "Aquaman 2",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "6:00PM"
+    },
+    "20": {
+        "City": "Bangalore",
+        "Movie": "Aquaman 2",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "9:00AM"
+    },
+    "21": {
+        "City": "Bangalore",
+        "Movie": "Aquaman 2",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "10:00AM"
+    },
+    "22": {
+        "City": "Bangalore",
+        "Movie": "Aquaman 2",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "2:00AM"
+    },
+    "23": {
+        "City": "Bangalore",
+        "Movie": "Aquaman 2",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "6:00PM"
+    },
+    "24": {
+        "City": "Bangalore",
+        "Movie": "Aquaman 2",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "9:00AM"
+    },
+    "25": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "10:00AM"
+    },
+    "26": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "2:00AM"
+    },
+    "27": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "6:00PM"
+    },
+    "28": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "9:00AM"
+    },
+    "29": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "10:00AM"
+    },
+    "30": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "2:00AM"
+    },
+    "31": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "6:00PM"
+    },
+    "32": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "9:00AM"
+    },
+    "33": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "10:00AM"
+    },
+    "34": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "2:00AM"
+    },
+    "35": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "6:00PM"
+    },
+    "36": {
+        "City": "Bangalore",
+        "Movie": "Devil: The British Secret Agent",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "9:00AM"
+    },
+    "37": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "10:00AM"
+    },
+    "38": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "2:00AM"
+    },
+    "39": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "6:00PM"
+    },
+    "40": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "9:00AM"
+    },
+    "41": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "10:00AM"
+    },
+    "42": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "2:00AM"
+    },
+    "43": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "6:00PM"
+    },
+    "44": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "9:00AM"
+    },
+    "45": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "10:00AM"
+    },
+    "46": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "2:00AM"
+    },
+    "47": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "6:00PM"
+    },
+    "48": {
+        "City": "Bangalore",
+        "Movie": "Dunki",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "9:00AM"
+    },
+    "49": {
+        "City": "Bangalore",
+        "Movie": "Hi Nanna",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "10:00AM"
+    },
+    "50": {
+        "City": "Bangalore",
+        "Movie": "Hi Nanna",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "2:00AM"
+    },
+    "51": {
+        "City": "Bangalore",
+        "Movie": "Hi Nanna",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "6:00PM"
+    },
+    "52": {
+        "City": "Bangalore",
+        "Movie": "Hi Nanna",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "9:00AM"
+    },
+    "53": {
+        "City": "Bangalore",
+        "Movie": "Neru",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "10:00AM"
+    },
+    "54": {
+        "City": "Bangalore",
+        "Movie": "Neru",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "2:00AM"
+    },
+    "55": {
+        "City": "Bangalore",
+        "Movie": "Neru",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "6:00PM"
+    },
+    "56": {
+        "City": "Bangalore",
+        "Movie": "Neru",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "9:00AM"
+    },
+    "57": {
+        "City": "Bangalore",
+        "Movie": "Neru",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "10:00AM"
+    },
+    "58": {
+        "City": "Bangalore",
+        "Movie": "Neru",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "2:00AM"
+    },
+    "59": {
+        "City": "Bangalore",
+        "Movie": "Neru",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "6:00PM"
+    },
+    "60": {
+        "City": "Bangalore",
+        "Movie": "Neru",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "9:00AM"
+    },
+    "61": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "10:00AM"
+    },
+    "62": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "2:00AM"
+    },
+    "63": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "6:00PM"
+    },
+    "64": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Shows": "9:00AM"
+    },
+    "65": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+        "Shows": "10:00AM"
+    },
+    "66": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+        "Shows": "2:00AM"
+    },
+    "67": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+        "Shows": "6:00PM"
+    },
+    "68": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+        "Shows": "9:00AM"
+    },
+    "69": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "HMT Digital 4K Cinema: Jalahalli",
+        "Shows": "10:00AM"
+    },
+    "70": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "HMT Digital 4K Cinema: Jalahalli",
+        "Shows": "2:00AM"
+    },
+    "71": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "HMT Digital 4K Cinema: Jalahalli",
+        "Shows": "6:00PM"
+    },
+    "72": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "HMT Digital 4K Cinema: Jalahalli",
+        "Shows": "9:00AM"
+    },
+    "73": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "10:00AM"
+    },
+    "74": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "2:00AM"
+    },
+    "75": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "6:00PM"
+    },
+    "76": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "PVR: Nexus (Formerly Forum), Koramangala",
+        "Shows": "9:00AM"
+    },
+    "77": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "10:00AM"
+    },
+    "78": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "2:00AM"
+    },
+    "79": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "6:00PM"
+    },
+    "80": {
+        "City": "Bangalore",
+        "Movie": "Salaar",
+        "Theatre": "PVR: VR Bengaluru, Whitefield Road",
+        "Shows": "9:00AM"
+    }
+}

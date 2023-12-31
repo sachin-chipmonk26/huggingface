@@ -1,0 +1,609 @@
+[
+    {
+      "action": "show_cities",
+      "response": [
+        "Here are the available cities where you can book movie tickets:",
+        "Bangalore",
+        "Delhi",
+        "Hyderabad",
+        "Chennai",
+        "Kolkata",
+        "Kochi",
+        "Tirupathi",
+        "Mumbai",
+        "Goa",
+        "Lucknow",
+        "Which city would you like to see movies in?"
+      ]
+    },
+    {
+      "action": "city_chosen",
+      "parameter": "Bangalore",  
+      "response": [
+        "Great! Here are the movies playing in Bangalore:",
+        "Salaar" ,
+        "Aquaman 2",
+        "Devil: The British Secret Agent",
+        "Animal",
+        "Neru",
+        "Hi Nanna",
+        "Dunki",
+        "Which movie would you like to watch?"
+      ]
+    },
+    {
+      "action": "movie_chosen",
+      "parameter": "Salaar",  
+      "response": [
+        "Excellent choice! Here are the theatres in Bangalore playing Salaar:",
+         "Cinepolis: Nexus Shantiniketan, Bengaluru",
+         "PVR: Nexus (Formerly Forum), Koramangala",
+         "PVR: VR Bengaluru, Whitefield Road",
+         "Gopalan Miniplex: Signature Mall, Old Madras Road",
+         "HMT Digital 4K Cinema: Jalahalli",
+        "Select a theatre to see show timings."
+      ]
+    },
+    {
+      "action": "theatre_chosen",
+      "parameter": "Cinepolis: Nexus Shantiniketan, Bengaluru",  
+      "response": [
+        "Here are the show timings for Salaar at Cinepolis: Nexus Shantiniketan, Bengaluru:",
+         "10:00 AM",
+         "2:00 AM",
+         "6:00 PM",
+         "9:00 PM",
+        "Choose a show time."
+      ]
+    },
+    {
+      "action": "timing_chosen",
+      "parameter": "6:00 PM",  
+      "response": [
+        "Perfect! How many tickets would you like for the 6:00 PM show?"
+      ]
+    },
+    {
+      "action": "tickets_chosen",
+      "parameter": 2,  
+      "response": [
+        "Your booking is confirmed! Here are the details:",
+        "Movie: Salaar",
+        "Theatre: Cinepolis: Nexus Shantiniketan, Bengaluru",
+        "Show Time: 6:00 PM",
+        "Number of Tickets: 2",
+        "Enjoy your movie!"
+      ]
+    },
+    {
+        "action": "city_chosen",
+        "parameter": "Delhi",
+        "response": [
+          "Awesome! Here are the movies playing in Delhi:",
+           "Salaar",
+           "Aquaman 2",
+           "Animal",
+           "Sam Bahadur",
+           "Neru",
+           "Devil: The British Secret Agent",
+           "Dunki",
+          "Which movie would you like to watch?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Sam Bahadur", 
+        "response": [
+          "Great choice! Here are the theatres in Delhi playing Salaar:",
+           "Cinepolis: DLF Avenue, Saket",
+           "INOX: Pacific Mall, Jasola",
+           "PVR: Vegas Dwarka",
+           "PVR: Ambience, Gurgaon",
+           "RR Cinema: Jaipuria Mall",
+          "Please select a theatre to see show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "Cinepolis: DLF Avenue, Saket",  
+        "response": [
+          "Here are the show timings for Sam Bahadur at Cinepolis: DLF Avenue, Saket:",
+           "10:00 AM",
+           "2:00 AM",
+           "6:00 PM",
+           "9:00 PM",
+          "Choose a show time."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "9:00 PM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 9:00 PM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 6,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Sam Bahadur",
+          "Theatre: Cinepolis: DLF Avenue, Saket",
+          "Show Time: 9:00 PM",
+          "Number of Tickets: 6",
+          "Enjoy your movie!"
+        ]
+      },
+      {
+        "action": "city_chosen",
+        "parameter": "Hyderabad",
+        "response": [
+          "Fantastic! Here are the movies playing in Hyderabad:",
+           "Salaar",
+           "Aquaman 2",
+           "Bubblegum",
+           "Devil: The British Secret Agent",
+           "Animal",
+           "Neru",
+           "Hi Nanna",
+           "Dunki",
+          "Which movie would you like to experience?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Salaar",  
+        "response": [
+          "Excellent choice! Here are the theatres in Hyderabad playing Salaar:",
+           "Asian CineSquare Multiplex: Uppal",
+           "AAA Cinemas: Ameerpet",
+           "AMB Cinemas: Gachibowli",
+           "PVR: RK Cineplex, Hyderabad",
+           "Prasads Multiplex: Hyderabad",
+           "INOX: Sattva Necklace Mall, Kavadiguda",
+          "Select a theatre to view show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "AMB Cinemas: Gachibowli",  
+        "response": [
+          "Here are the show timings for Salaar at AMB Cinemas: Gachibowli:",
+           "10:00 AM",
+           "2:00 AM",
+           "6:00 PM",
+           "9:00 PM",
+          "Choose a show time that suits your schedule."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "10:00 AM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 10:00 AM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 3,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Salaar",
+          "Theatre: AMB Cinemas: Gachibowli",
+          "Show Time: 10:00 AM",
+          "Number of Tickets: 3",
+          "Enjoy your movie!"
+        ]
+      },
+      {
+        "action": "city_chosen",
+        "parameter": "Chennai",
+        "response": [
+          "Wonderful! Here's the exciting lineup of movies playing in Chennai:",
+           "Salaar",
+           "Aquaman 2",
+           "Saba Nayagan",
+           "Neru",
+           "Dunki",
+           "Devil: The British Secret Agent",
+           "Animal",
+          "Which movie would you like to catch on the big screen?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Saba Nayagan",  
+        "response": [
+          "Superb choice! Here are the theatres in Chennai showcasing Salaar:",
+           "AGS Cinemas: T. Nagar" ,
+           "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+           "PVR: Sathyam, Royapettah",
+           "INOX: The Marina Mall, OMR",
+           "MAYAJAAL Multiplex: ECR, Chennai",
+          "Please select a theatre to explore show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "PVR: Sathyam, Royapettah",  
+        "response": [
+          "Here are the available show timings for Saba Nayagan at PVR: Sathyam, Royapettah:",
+           "10:00 AM",
+           "2:00 PM",
+           "6:00 PM",
+           "9:00 PM",
+          "Choose a show time that fits your plans."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "2:00 PM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 2:00 PM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 4,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Saba Nayagan",
+          "Theatre: PVR: Sathyam, Royapettah",
+          "Show Time: 2:00 PM",
+          "Number of Tickets: 4",
+          "Enjoy your movie!"
+        ]
+      },
+      {
+        "action": "city_chosen",
+        "parameter": "Kolkata",
+        "response": [
+          "Marvelous! Here's a glimpse of the captivating movies playing in Kolkata:",
+           "Salaar",     
+           "Aquaman 2",
+           "Dunki",
+           "Animal",
+           "Sam Bahadur",
+           "Kurban",
+          "Which cinematic adventure would you like to embark on?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Kurban",  
+        "response": [
+          "Spectacular choice! Here are the theatres in Kolkata screening Salaar:",
+           "Ajanta Cinema: Behala",
+           "Bioscope: Axis Mall, Rajarhat",
+           "Cinepolis: Acropolis Mall, Kolkata",
+           "Elora Multiplex: Champahati",
+           "INOX: City Center, Salt Lake",
+           "Miraj Cinemas: Newtown, Kolkata",
+          "Please select a theatre to discover show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "Cinepolis: Acropolis Mall, Kolkata",  
+        "response": [
+          "Here are the show timings for Kurban at Cinepolis: Acropolis Mall, Kolkata:",
+           "10:00 AM",
+           "2:00 AM",
+           "6:00 PM",
+           "9:00 PM",
+          "Choose a show time that aligns with your preferences."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "6:00 PM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 6:00 PM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 2,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Kurban",
+          "Theatre: Cinepolis: Acropolis Mall, Kolkata",
+          "Show Time: 6:00 PM",
+          "Number of Tickets: 2",
+          "Enjoy your movie!"
+        ]
+      },
+      {
+        "action": "city_chosen",
+        "parameter": "Kochi",
+        "response": [
+          "Thrilling! Here's a list of the exciting movies playing in Kochi:",
+           "Salaar",
+           "Aquaman 2",
+           "Neru",
+           "Queen Elizabeth",
+           "Antony (2023)",
+           "Sam Bahadur",
+          "Which cinematic experience would you like to immerse yourself in?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Neru",  
+        "response": [
+          "Excellent choice! Here are the theatres in Kochi showcasing Salaar:",
+           "Cinepolis: Centre Square Mall, Kochi",      
+           "EVM Cinema A/C RGB LASER 3D: Perumbavoor",
+           "MY Cinemas, KSRT Complex, Angamaly: Kerala",
+           "PVR: Lulu, Kochi",
+           "Vanitha Cineplex RGB Laser 4K 3D ATMOS: Edappally",
+          "Please select a theatre to view the available show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "PVR: Lulu, Kochi",  
+        "response": [
+          "Here are the show timings for Neru at PVR: Lulu, Kochi:",
+           "10:00 AM",
+           "2:00 AM",
+           "6:00 PM",
+           "9:00 PM",
+          "Choose a show time that best suits your schedule."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "9:00 PM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 9:00 PM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 1,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Neru",
+          "Theatre: PVR: Lulu, Kochi",
+          "Show Time: 9:00 PM",
+          "Number of Tickets: 1",
+          "Enjoy your movie!"
+        ]
+      },
+      {
+        "action": "city_chosen",
+        "parameter": "Tirupati",
+        "response": [
+          "Excellent choice! Tirupati offers an array of captivating cinematic experiences. Here are the movies currently playing:",
+           "Salaar",
+           "Aquaman 2",
+           "Bubblegum",
+           "Devil: The British Secret Agent",
+           "Animal",
+           "Neru",
+           "Hi Nanna",
+           "Dunki",
+          "Which film would you like to enjoy?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Bubblegum", 
+        "response": [
+          "Fantastic choice! Here are the theatres in Tirupati screening Salaar:",
+           "CS Cinemas (Devendra Theater) A/C 4K Dolby Atmos",
+           "Padma Picture Palace A/C 4K Dolby Atmos: Renigunta",
+           "NVR Sandhya Theater 4K Dolby Atmos: Tirupati",
+           "Pratap Theater A/c 4K Dolby Atmos: Tirupati",
+          "Please select a theatre to view the show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "CS Cinemas (Devendra Theater) A/C 4K Dolby Atmos",  
+        "response": [
+          "Here are the show timings for Bubblegum at CS Cinemas (Devendra Theater) A/C 4K Dolby Atmos:",
+           "10:00 AM",
+           "2:00 AM",
+           "6:00 PM",
+           "9:00 PM",
+          "Choose a show time that aligns with your preferences."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "10:00 AM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 10:00 AM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 5,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Bubblegum",
+          "Theatre: CS Cinemas (Devendra Theater) A/C 4K Dolby Atmos",
+          "Show Time: 10:00 AM",
+          "Number of Tickets: 5",
+          "Enjoy your movie!"
+        ]
+      },
+      {
+        "action": "city_chosen",
+        "parameter": "Mumbai",
+        "response": [
+          "Welcome to the heart of Bollywood! Here's a glimpse of the exciting movies playing in Mumbai:",
+           "Salaar",
+           "Aquaman 2",
+           "Animal",
+           "Sam Bahadur",
+           "Neru",
+           "Devil: The British Secret Agent",
+           "Dunki",
+          "Which cinematic masterpiece would you like to experience?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Animal", 
+        "response": [
+          "Fantastic choice! Here are the theatres in Mumbai showcasing Salaar:",
+           "Cinepolis: Viviana Mall, Thane",
+           "MovieMax: Eternity Mall, Thane",
+           "PVR: Haseen, Bhiwandi",
+           "Ajanta Cinema Cinex: Borivali (W) Newly Renovated",
+           "G7 Multiplex: Bandra (W)",
+          "Please choose a theatre to view the show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "Cinepolis: Viviana Mall, Thane",  
+        "response": [
+          "Here are the show timings for Animal at Cinepolis: Viviana Mall, Thane:",
+           "10:00 AM",
+           "2:00 AM",
+           "6:00 PM",
+           "9:00 PM",
+          "Select a show time that fits your schedule perfectly."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "2:00 PM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 2:00 PM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 4,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Animal",
+          "Theatre: Cinepolis: Viviana Mall, Thane",
+          "Show Time: 2:00 PM",
+          "Number of Tickets: 4",
+          "Enjoy your movie!"
+        ]
+      },
+      {
+        "action": "city_chosen",
+        "parameter": "Goa",
+        "response": [
+          "Spectacular! Goa's cinematic scene is as vibrant as its beaches. Here's a list of movies playing:",
+           "Salaar",
+           "Aquaman 2",
+           "Dunki",
+           "Neru",
+           "Sam Bahadur",
+           "Devil: The British Secret Agent",
+          "Which film would you like to catch?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Aquaman 2", 
+        "response": [
+          "Excellent choice! Here are the theatres in Goa screening Salaar:",
+           "1930 Vasco",
+           "INOX: Old GMC, DB Road, Panaji",
+           "INOX: Porvorim, Goa",
+           "Z Square Cine Samrat Ashok: Panaji",
+          "Please select a theatre to view the show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "INOX: Old GMC, DB Road, Panaji", 
+        "response": [
+          "Here are the show timings for Aquaman 2 at INOX: Old GMC, DB Road, Panaji:",
+           "10:00 AM",
+           "2:00 AM",
+           "6:00 PM",
+           "9:00 PM",
+          "Choose a show time that aligns with your plans."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "6:00 PM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 6:00 PM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 5,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Aquaman 2",
+          "Theatre: INOX: Old GMC, DB Road, Panajiu",
+          "Show Time: 6:00 PM",
+          "Number of Tickets: 5",
+          "Enjoy your movie!"
+        ]
+      },
+      {
+        "action": "city_chosen",
+        "parameter": "Lucknow",
+        "response": [
+          "Wonderful! Lucknow's cinematic landscape is brimming with exciting options. Here are the movies playing:",
+           "Salaar",
+           "Aquaman 2",
+           "Animal",
+           "Sam Bahadur",
+           "Neru",
+           "Devil: The British Secret Agent",
+           "Dunki",
+          "Which captivating film would you like to experience?"
+        ]
+      },
+      {
+        "action": "movie_chosen",
+        "parameter": "Dunki",  
+        "response": [
+          "Excellent choice! Here are the theatres in Lucknow showcasing Salaar:",
+           "Cinepolis: One Awadh Centre, Lucknow",
+           "Fun Cinemas: Fun Republic Mall, Lucknow",
+           "INOX: Crown Mall, Lucknow",
+           "MovieMax: Shalimar Gateway",
+           "PVR: Phoenix, Lucknow",
+          "Please choose a theatre to view the show timings."
+        ]
+      },
+      {
+        "action": "theatre_chosen",
+        "parameter": "Cinepolis: One Awadh Centre, Lucknow",  
+        "response": [
+          "Here are the show timings for Dunki at Cinepolis: One Awadh Centre, Lucknow:",
+           "10:00 AM",
+           "2:00 AM",
+           "6:00 PM",
+           "9:00 PM",
+          "Select a show time that perfectly suits your schedule."
+        ]
+      },
+      {
+        "action": "timing_chosen",
+        "parameter": "9:00 PM",  
+        "response": [
+          "Perfect! How many tickets would you like for the 9:00 PM show?"
+        ]
+      },
+      {
+        "action": "tickets_chosen",
+        "parameter": 3,  
+        "response": [
+          "Your booking is confirmed! Here are the details:",
+          "Movie: Dunki",
+          "Theatre: Cinepolis: One Awadh Centre, Lucknow",
+          "Show Time: 9:00 PM",
+          "Number of Tickets: 3",
+          "Enjoy your movie!"
+        ]
+      }
+  ]
+  
