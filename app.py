@@ -1,74 +1,27 @@
-# from transformers import LlamaForCausalLM, LlamaTokenizer, TextDataset, DataCollatorForLanguageModeling
+import streamlit as st
+from transformers import GPT2Tokenizer, GPT2LMHeadModel  # Import GPT2 classes
+# from transformers import AutoTokenizer
+# from transformers import TFAutoModelForSequenceClassification
+# from tensorflow.keras.optimizers import Adam
 
-import huggingface_hub
+model = GPT2LMHeadModel.from_pretrained("fine-tuned-gpt2")  # Load fine-tuned model - reponame  - sachin26/autotrain
+tokenizer = GPT2Tokenizer.from_pretrained("fine-tuned-gpt2") 
 
-from transformers import (
-    LlamaForCausalLM,
-    LlamaTokenizer,
-    TextDataset,
-    DataCollatorForLanguageModeling,
-    GPT2Tokenizer,
-    GPT2LMHeadModel,
-    LineByLineTextDataset,
-    Trainer,
-    TrainingArguments,
-)
-# from transformers import TextDataset
 
-huggingface_hub.login(token="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")
+# tokenizer = AutoTokenizer.from_pretrained("fine-tuned-gpt2")
+# model = TFAutoModelForSequenceClassification.from_pretrained("fine-tuned-gpt2")
+# model.compile(optimizer=Adam(3e-5))
 
-#for llama model
-# tokenizer = LlamaTokenizer.from_pretrained("facebook/opt-125m")
-# model = LlamaForCausalLM.from_pretrained("facebook/opt-125m")
+  # Load fine-tuned tokenizer
 
-#for gpt model
-tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-model = GPT2LMHeadModel.from_pretrained("gpt2")
+def generate_response(prompt):
+    input_ids = tokenizer.encode(prompt, return_tensors="pt")
+    output = model.generate(input_ids, max_length=128)
+    response = tokenizer.decode(output[0], skip_special_tokens=True)
+    return response 
 
-# **Set padding token (example using eos_token):**
-tokenizer.pad_token = tokenizer.eos_token
-
-#for CSV dataset
-train_dataset = TextDataset(
-    tokenizer=tokenizer,
-    file_path="booking_prompts.csv",
-    block_size=128  # Adjust based on model and hardware
-)
-
-# #for json dataset
-# train_dataset = LineByLineTextDataset(
-#     tokenizer=tokenizer,
-#     file_path="bookings.json",
-#     block_size=128  # Adjust as needed
-# )
-
-data_collator = DataCollatorForLanguageModeling(
-    tokenizer=tokenizer, mlm=False # Enable padding
-)
-#training code
-training_args = TrainingArguments(
-    output_dir="./output",
-    overwrite_output_dir=True,
-    num_train_epochs=3,  # Adjust based on dataset size and needs
-    per_device_train_batch_size=4,  # Adjust based on available memory
-    save_steps=10_000,
-    save_total_limit=2,
-)
-
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    data_collator=data_collator,
-    train_dataset=train_dataset,
-)
-
-trainer.train()
-
-trainer.save_model("./fine-tuned-gpt2")
-tokenizer.save_pretrained("./fine-tuned-gpt2")
-tokenizer.save_vocabulary("vocab.json")
-
-#If you want to reuse the fine-tuned model later, save it to a directory using:
-
-# model.save_pretrained("path/to/save/model")
-# tokenizer.save_pretrained("path/to/save/model")
+st.title("Movie Booking Chatbot")
+user_input = st.text_input("Ask a question about movie bookings:")
+if user_input:
+    response = generate_response(user_input)
+    st.write("Response:", response)
