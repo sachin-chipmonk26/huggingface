@@ -35,3 +35,9 @@ Note : delete "output","fine-tuned-gpt2" folders  and "cached_lm_GPT2Tokenizer_1
 # Once the above files are downloaded run the following command to chat with hyour fine tuned custom bot 
 
 ```streamlit run app.py```
+
+# Reference links for pretrained models
+
+https://huggingface.co/transformers/v3.0.2/pretrained_models.html
+
+https://huggingface.co/docs/transformers/model_doc/gpt2

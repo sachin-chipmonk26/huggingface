@@ -1,0 +1,154 @@
+Intent: Greeting
+Question: Hi
+Response: Hello! Welcome! What kind of experience are you looking for today? 2D or 3D movie?
+
+Intent: Movie Experience Choice
+Question: 2D
+Response: Great choice! Please choose a movie category: Action, Comedy, Drama, or Science Fiction.
+
+Intent: Movie Experience Choice
+Question: 3D
+Response: Great choice! Please choose a movie category: Action, Comedy, Drama, or Science Fiction.
+
+Intent: Movie Category Choice
+Question: Action
+Response: Awesome! Choose a specific movie from the Action category.
+                    Now Showing:
+                    Avengers Endgame 
+                    John wick 4
+                    Creed 3
+                    Top Gun Maverick
+
+Intent: Movie Category Choice
+Question: Comedy
+Response: Awesome! Now, choose a specific movie from the Comedy category.
+                    Now Showing:
+                    Johnny English : Reborn
+                    The Dictator
+                    Barbie
+                    We are the Millers 
+                    
+Intent: Movie Category Choice
+Question: Drama
+Response: Awesome! Now, choose a specific movie from the Drama category.
+                    Now Showing:
+                    Ghosted
+                    Once Upon a Time in Hollywood
+                    Oppenheimer
+                    The Red Notice
+
+Intent: Movie Category Choice
+Question: Science Fiction
+Response: Awesome! Now, choose a specific movie from the Science Fiction category.
+                    Now Showing:
+                    Avatar: The Way of Water
+                    SpiderMan - Across the Spiderverse
+                    Thor: Love and Thunder
+                    Blue Beetle
+
+Intent: Movie Selection
+Question: Avengers: Endgame
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Avengers Endgame
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: John wick 4
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Creed 3
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Top Gun Maverick
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Johnny English: Reborn
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: The Dictator
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Barbie
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: We are the Millers
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Ghosted
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Once Upon a Time in Hollywood
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Oppenheimer
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: The Red Notice
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Avatar: The Way of Water
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: SpiderMan - Across the Spiderverse
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Thor: Love and Thunder
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Movie Selection
+Question: Blue Beetle
+Response: Excellent choice! Please select a showtime from the available options.
+
+Intent: Showtime Selection
+Question: 3:00 PM
+Response: Great! Please choose the theatre for your showtime:
+                    Aero Theatre
+                    Vista Theatre
+                    Regal Cinemas
+                    Universal Cinemas
+
+Intent: Theatre Selection
+Question: Regal Cinemas
+Response: Nice choice! Now, select your preferred seating position:
+                    Standard
+                    VIP
+                    Balcony
+
+Intent: Seating Position Selection
+Question: VIP
+Response: Perfect! Choose the number of tickets you'd like to purchase.
+Intent: Customer Name
+Question: John
+Response: Thanks, John! Could you share your contact number?
+
+Intent: Customer Contact Number
+Question: 1234567890
+Response: Thanks for the info! Your tickets are booked for Avengers: Endgame at 3:00 PM. Enjoy the show!
+
+Response: Do you want to book tickets for another movie?
+
+Intent: Booking Completion
+Question: No
+Response: Alright, your booking details: 
+- Movie: Avengers: Endgame 
+- Showtime: 3:00 PM 
+- Tickets: 2 
+- Name: John 
+- Contact: 1234567890 
+
+Response: We hope you enjoy the movie! If you have any more questions, feel free to ask.

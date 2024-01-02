@@ -12,18 +12,26 @@ from transformers import (
     LineByLineTextDataset,
     Trainer,
     TrainingArguments,
+    BertTokenizer,
+    BertForMaskedLM
 )
 # from transformers import TextDataset
 
 huggingface_hub.login(token="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")
 
+
 #for llama model
 # tokenizer = LlamaTokenizer.from_pretrained("facebook/opt-125m")
 # model = LlamaForCausalLM.from_pretrained("facebook/opt-125m")
 
+#for bert-base-uncased
+tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+model = BertForMaskedLM.from_pretrained("bert-base-uncased") 
+
+
 #for gpt model
-tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-model = GPT2LMHeadModel.from_pretrained("gpt2")
+# tokenizer = GPT2Tokenizer.from_pretrained("gpt2") #Breaks down text into numerical tokens that the model can understand.
+# model = GPT2LMHeadModel.from_pretrained("gpt2") #Downloads the pre-trained model's architecture and weights from the Hugging Face model hub.
 
 # **Set padding token (example using eos_token):**
 tokenizer.pad_token = tokenizer.eos_token
@@ -31,7 +39,7 @@ tokenizer.pad_token = tokenizer.eos_token
 #for CSV dataset
 train_dataset = TextDataset(
     tokenizer=tokenizer,
-    file_path="booking_prompts.csv",
+    file_path="movie_ticket_booking.csv",
     block_size=128  # Adjust based on model and hardware
 )
 
@@ -42,6 +50,9 @@ train_dataset = TextDataset(
 #     block_size=128  # Adjust as needed
 # )
 
+
+# This creates a DataCollator object, responsible for collating text data into batches for efficient training.
+# mlm=False indicates standard language modeling (predicting next words) rather than masked language modeling.
 data_collator = DataCollatorForLanguageModeling(
     tokenizer=tokenizer, mlm=False # Enable padding
 )
